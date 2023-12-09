@@ -31,8 +31,8 @@ const NavBar = () => {
       link: '/',
     },
     {
-      menu: 'TERMS OF USE',
-      link: '/',
+      menu: 'Home',
+      link: 'https://milliance.vercel.app/',
     },
   ]
 
